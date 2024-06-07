@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kaitlin\\Documents\\FinalSpring\\InterMob\\MauiRoutePlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C79120-5460-4CD5-9E8B-CC6DB04961F7}|MauiRoutePlanner\\MauiRoutePlanner.csproj|c:\\users\\kaitlin\\documents\\finalspring\\intermob\\mauirouteplanner\\mauirouteplanner\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C79120-5460-4CD5-9E8B-CC6DB04961F7}|MauiRoutePlanner\\MauiRoutePlanner.csproj|solutionrelative:mauirouteplanner\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0C79120-5460-4CD5-9E8B-CC6DB04961F7}|MauiRoutePlanner\\MauiRoutePlanner.csproj|c:\\users\\kaitlin\\documents\\finalspring\\intermob\\mauirouteplanner\\mauirouteplanner\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D0C79120-5460-4CD5-9E8B-CC6DB04961F7}|MauiRoutePlanner\\MauiRoutePlanner.csproj|solutionrelative:mauirouteplanner\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 365,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kaitlin\\Documents\\FinalSpring\\InterMob\\MauiRoutePlanner\\MauiRoutePlanner\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiRoutePlanner\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Kaitlin\\Documents\\FinalSpring\\InterMob\\MauiRoutePlanner\\MauiRoutePlanner\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiRoutePlanner\\MainPage.xaml.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAcwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:23:21.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Kaitlin\\Documents\\FinalSpring\\InterMob\\MauiRoutePlanner\\MauiRoutePlanner\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiRoutePlanner\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Kaitlin\\Documents\\FinalSpring\\InterMob\\MauiRoutePlanner\\MauiRoutePlanner\\MainPage.xaml",
+              "RelativeToolTip": "MauiRoutePlanner\\MainPage.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIApwBcAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-07T06:21:08.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
