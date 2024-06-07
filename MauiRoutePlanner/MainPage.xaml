@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Microsoft.Maui.Controls.Maps;assembly=Microsoft.Maui.Controls.Maps"
+             x:Class="MauiRoutePlanner.MainPage">
+
+    <VerticalStackLayout Padding="30,0" Spacing="25">
+        <!-- starting point input -->
+        <Entry x:Name="StartingPointEntry"
+               Placeholder="Enter Starting Point"
+               SemanticProperties.Hint="Enter the starting point."
+               VerticalOptions="Start" />
+
+        <!-- destination input -->
+        <Entry x:Name="DestinationEntry"
+               Placeholder="Enter Destination"
+               SemanticProperties.Hint="Enter the destination."
+               VerticalOptions="Start" />
+
+        <!-- route calculator button -->
+        <Button x:Name="CalculateRouteButton"
+                Text="Calculate Route"
+                Clicked="OnCalculateRouteClicked"
+                SemanticProperties.Hint="Click to calculate the distance between the starting point and destination."
+                VerticalOptions="Start" />
+
+        <!-- route info labels -->
+        <Label x:Name="DistanceLabel"
+               Text=""
+               VerticalOptions="Start" />
+        <Label x:Name="TravelTimeLabel"
+               Text=""
+               VerticalOptions="Start" />
+        
+        <!-- map -->
+        <maps:Map x:Name="MyMap"
+                  MapType="Street"
+                  VerticalOptions="FillAndExpand"
+                  HorizontalOptions="FillAndExpand"
+                  HeightRequest="450"/>
+    </VerticalStackLayout>
+
+</ContentPage>
